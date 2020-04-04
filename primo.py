@@ -14,6 +14,7 @@ def is_prime(n):
         return True
 
 def main():
+
     print('')
     n = int(input('Digite su número: '))
     result = is_prime(n)
