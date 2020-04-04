@@ -11,8 +11,7 @@ def is_prime(n):
         for i in range(3,n):
             if n % i == 0:
                 return False
-            else:
-                return True
+        return True
 
 def main():
     print('')
