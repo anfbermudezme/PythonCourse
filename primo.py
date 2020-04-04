@@ -14,7 +14,7 @@ def is_prime(n):
             else:
                 return True
 
-def run():
+def main():
     print('')
     n = int(input('Digite su número: '))
     result = is_prime(n)
@@ -27,4 +27,4 @@ def run():
         print('Su número no es primo')
 
 if __name__ == '__main__':
-    run()
+    main()
