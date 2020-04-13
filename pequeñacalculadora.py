@@ -13,7 +13,7 @@ def run():
     print('')
 
 def f_calculator(ammount):
-    dolar_today=4024.97
+    dolar_today=3864.95
     return dolar_today * ammount
 
 if __name__ == '__main__':
