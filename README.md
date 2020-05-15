@@ -40,3 +40,5 @@ For the scientific articles, notes and other tools that I need for my career as 
 ![](https://raw.githubusercontent.com/anfbermudezme/Blog/master/imagenes/Luna.png)
 
 ![](https://raw.githubusercontent.com/anfbermudezme/PythonCourse/master/images/PYTHONCOURSE.PNG)
+
+![](![](https://raw.githubusercontent.com/anfbermudezme/PythonCourse/master/images/PYTHONCOURSE.PNG)
