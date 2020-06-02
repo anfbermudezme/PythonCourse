@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/anfbermudezme/PythonCourse/master/images/PYTHONCOURSE.PNG# Personal Projects 
+# Personal Projects 
 
 I am A.F Bermúdez, a physics student at the National University of Colombia. I upload my personal projects so that they can be seen by whoever is interested. 
 
